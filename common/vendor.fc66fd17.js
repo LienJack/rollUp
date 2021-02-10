@@ -9076,9 +9076,9 @@ module.exports.showProblems = showProblems;
 
 /***/ }),
 
-/***/ "../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack-hot-middleware/client.js?path=http://127.0.0.1:4001/__webpack_hmr&timeout=20000&reload=true":
+/***/ "../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack-hot-middleware/client.js?path=http://127.0.0.1:4000/__webpack_hmr&timeout=20000&reload=true":
 /*!*************************************************************************************************************!*\
-  !*** (webpack)-hot-middleware/client.js?path=http://127.0.0.1:4001/__webpack_hmr&timeout=20000&reload=true ***!
+  !*** (webpack)-hot-middleware/client.js?path=http://127.0.0.1:4000/__webpack_hmr&timeout=20000&reload=true ***!
   \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -9379,7 +9379,7 @@ if (module) {
   };
 }
 
-/* WEBPACK VAR INJECTION */}.call(this, "?path=http://127.0.0.1:4001/__webpack_hmr&timeout=20000&reload=true", __webpack_require__(/*! ./../webpack/buildin/module.js */ "../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack/buildin/module.js")(module)))
+/* WEBPACK VAR INJECTION */}.call(this, "?path=http://127.0.0.1:4000/__webpack_hmr&timeout=20000&reload=true", __webpack_require__(/*! ./../webpack/buildin/module.js */ "../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack/buildin/module.js")(module)))
 
 /***/ }),
 
@@ -81081,4 +81081,4 @@ module.exports = warning;
 /***/ })
 
 }]);
-//# sourceMappingURL=vendor.492310cf.js.map
+//# sourceMappingURL=vendor.fc66fd17.js.map

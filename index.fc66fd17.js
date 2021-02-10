@@ -113,7 +113,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "492310cf622aa7770ec0";
+/******/ 	var hotCurrentHash = "fc66fd176f646a6648a0";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1035,7 +1035,7 @@ module.exports = __webpack_require__.p + "imgs/eden.76c9b0bd.png";
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1612942003217
+      // 1612939674310
       var cssReload = __webpack_require__(/*! /Users/bytedance/.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -1425,12 +1425,12 @@ function Router() {
 
 /***/ 0:
 /*!*****************************************************************************************************************************************************************!*\
-  !*** multi (webpack)-hot-middleware/client.js?path=http://127.0.0.1:4001/__webpack_hmr&timeout=20000&reload=true ./src/common/utils/polyfill.js ./src/index.ts ***!
+  !*** multi (webpack)-hot-middleware/client.js?path=http://127.0.0.1:4000/__webpack_hmr&timeout=20000&reload=true ./src/common/utils/polyfill.js ./src/index.ts ***!
   \*****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/bytedance/.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack-hot-middleware/client.js?path=http://127.0.0.1:4001/__webpack_hmr&timeout=20000&reload=true */"../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack-hot-middleware/client.js?path=http://127.0.0.1:4001/__webpack_hmr&timeout=20000&reload=true");
+__webpack_require__(/*! /Users/bytedance/.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack-hot-middleware/client.js?path=http://127.0.0.1:4000/__webpack_hmr&timeout=20000&reload=true */"../../../.nvm/versions/node/v10.15.3/lib/node_modules/@ies/eden/node_modules/@ies/cora/node_modules/webpack-hot-middleware/client.js?path=http://127.0.0.1:4000/__webpack_hmr&timeout=20000&reload=true");
 __webpack_require__(/*! ./src/common/utils/polyfill.js */"./src/common/utils/polyfill.js");
 module.exports = __webpack_require__(/*! ./src/index.ts */"./src/index.ts");
 
@@ -1438,4 +1438,4 @@ module.exports = __webpack_require__(/*! ./src/index.ts */"./src/index.ts");
 /***/ })
 
 /******/ });
-//# sourceMappingURL=index.492310cf.js.map
+//# sourceMappingURL=index.fc66fd17.js.map
