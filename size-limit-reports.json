@@ -5,34 +5,16 @@
     "chunkType": ".html",
     "initial": true,
     "size": {
-      "humanreadableBytes": "959 B",
-      "bytes": 959,
-      "gzipped": 460,
-      "humanreadableGzipped": "460 B"
+      "humanreadableBytes": "963 B",
+      "bytes": 963,
+      "gzipped": 461,
+      "humanreadableGzipped": "461 B"
     },
     "gc": null,
     "javaScript": null,
     "scriptEval": null,
     "loadTime": {
-      "slow3g": 0.31873046875
-    }
-  },
-  {
-    "assetName": "common/base.c4e1ead8.css",
-    "chunkName": "index",
-    "chunkType": ".css",
-    "initial": true,
-    "size": {
-      "humanreadableBytes": "51 B",
-      "bytes": 51,
-      "gzipped": 69,
-      "humanreadableGzipped": "69 B"
-    },
-    "gc": null,
-    "javaScript": null,
-    "scriptEval": null,
-    "loadTime": {
-      "slow3g": 0.31
+      "slow3g": 0.31880859375
     }
   },
   {
@@ -54,21 +36,39 @@
     }
   },
   {
-    "assetName": "index.752e44b3.js",
+    "assetName": "common/base.c4e1ead8.css",
+    "chunkName": "index",
+    "chunkType": ".css",
+    "initial": true,
+    "size": {
+      "humanreadableBytes": "51 B",
+      "bytes": 51,
+      "gzipped": 69,
+      "humanreadableGzipped": "69 B"
+    },
+    "gc": null,
+    "javaScript": null,
+    "scriptEval": null,
+    "loadTime": {
+      "slow3g": 0.31
+    }
+  },
+  {
+    "assetName": "index.232024b6.js",
     "chunkName": "index",
     "chunkType": ".js",
     "initial": true,
     "size": {
       "humanreadableBytes": "11.7 kB",
-      "bytes": 11739,
-      "gzipped": 7239,
+      "bytes": 11740,
+      "gzipped": 7240,
       "humanreadableGzipped": "7.24 kB"
     },
     "gc": null,
     "javaScript": null,
     "scriptEval": null,
     "loadTime": {
-      "slow3g": 0.52927734375
+      "slow3g": 0.529296875
     }
   },
   {
